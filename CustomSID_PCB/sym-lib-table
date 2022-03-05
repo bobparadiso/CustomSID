@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name FeatherM0_Adalogger)(type Legacy)(uri ${KIPRJMOD}/FeatherM0_Adalogger.lib)(options "")(descr ""))
+  (lib (name AD5263)(type Legacy)(uri ${KIPRJMOD}/AD5263.lib)(options "")(descr ""))
+)

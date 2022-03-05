@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FeatherM0_Adalogger)(type KiCad)(uri "$(KIPRJMOD)/FeatherM0_Adalogger.pretty")(options "")(descr ""))
+  (lib (name AudioJack)(type KiCad)(uri "$(KIPRJMOD)/AudioJack.pretty")(options "")(descr ""))
+)
